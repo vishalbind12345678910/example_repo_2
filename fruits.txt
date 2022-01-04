@@ -2,3 +2,5 @@ apple
 banana
 orange
 kiwi
+guava
+watermelon
